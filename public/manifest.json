@@ -1,0 +1,50 @@
+{
+  "short_name": "3nergize",
+  "name": "3nergize",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+
+    {
+      "src": "maskable_icon_x48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "maskable_icon_x72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "maskable any"
+    }
+
+  ],
+
+  "categories": [
+    "business",
+    "optimization"
+  ],
+
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "theme_color": "#f5f5f5",
+  "background_color": "#f5f5f5",
+  "description": "Um APP para analisar e otimizar o seu uso de energia elétrica!.",
+  "lang": "pt"
+
+
+}
